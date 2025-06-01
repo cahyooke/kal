@@ -45,3 +45,6 @@ Metode ini dilakukan dengan menjumlahkan atau mengurangkan persamaan agar salah 
 ### Solusi Grafik
 Metode ini digunakan terutama untuk Sistem Persamaan Linier Dua Variabel (SPLDV) karena mudah divisualisasikan dalam bidang koordinat.
 <iframe scrolling="no" title="Solving Linear Systems by Graphing: REVAMPED" src="https://www.geogebra.org/material/iframe/id/vyxxahhq/width/824/height/529/border/888888/sfsb/true/smb/false/stb/true/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="824px" height="529px" style="border:0px;"> </iframe>
+
+```{tableofcontents}
+```
